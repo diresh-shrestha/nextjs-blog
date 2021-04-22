@@ -1,1 +1,1 @@
-Learning Next.js by creating a [blog](https://nextjs-tutorial-pwzahurj9-diresh-shrestha.vercel.app/) following the [tutorial](https://nextjs.org/learn).
+[Blog](https://nextjs-tutorial-fpohw9f6k-diresh-shrestha.vercel.app/) built using Next.js with typescript.
